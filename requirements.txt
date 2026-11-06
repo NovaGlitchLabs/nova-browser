@@ -1,0 +1,8 @@
+# Nova Browser needs these (Windows 10/11, Python 3.10+):
+PyQt6>=6.5
+PyQt6-WebEngine>=6.5
+
+# Optional: the built-in voice control. The browser can install these for you
+# the first time you press the microphone button, or run:  pip install vosk sounddevice
+# vosk>=0.3.45
+# sounddevice>=0.4.6
